@@ -2,7 +2,7 @@
 
 Description of each file
 
-project.ipynb: this file is my code and it's my presentation
+project.ipynb: this file is my code and my presentation.
 
 read database.ipynb: this file is used to read tables from database.
 
